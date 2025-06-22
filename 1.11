@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-char num:
+char num;
 scanf("%c",& num);
 printf("%c",num-32);
 return 0;
@@ -13,5 +13,5 @@ return 0;
   print("enter any lower case latter" ,);
   scanf("%c",& lower );
   upper= to upper (loweer);
-  print("uooercase =%c", upper);
+  print("uppercase =%c", upper);
 }  
