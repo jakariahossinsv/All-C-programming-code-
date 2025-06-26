@@ -17,3 +17,4 @@ gets(st);
 printf("output = %s\n",st);
 return 0;
 }
+*/
